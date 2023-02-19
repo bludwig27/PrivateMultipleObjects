@@ -1,0 +1,15 @@
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.exe
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.deps.json
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.runtimeconfig.json
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfo.cs
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\refint\PrivateMultipleObjects.dll
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.genruntimeconfig.cache
+C:\Users\bludw\source\repos\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\ref\PrivateMultipleObjects.dll
